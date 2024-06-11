@@ -11,7 +11,7 @@ function reverse( str : string) {
 
 
 const result = reverse('hello') 
-const result2 = reverse(true) // it will give error
+//const result2 = reverse(true) // it will give error
 
 
 
